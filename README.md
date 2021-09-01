@@ -1,11 +1,12 @@
-## Sobre o sistema
+## About the system
 
-Sistema de eventos
+Event system
 
-É um projeto de cadastro de eventos, feito com o framework Laravel. O projeto consiste em uma interface onde o usuário pode visualizar os eventos cadastrados de outras pessoas, bem como também pode criar seu próprio evento e participar de outros.
+It is an event registration project, made with the Laravel framework. The project consists of an interface where the user can view the registered events of other people, as well as create their own event and participate in others.
 
-## Sobre o Laravel
+## About Laravel
 
-Laravel é um framework PHP gratuito e de código aberto, utilizado no desenvolvimento de sistemas para web. Algumas de suas principais características são permitir a escrita de um código mais simples e legível, e suporte a recursos avançados que agilizam o processo de desenvolvimento.
+Laravel is a free and open source PHP framework used in web systems development. Some of its main features are to allow writing simpler and more readable code, and support for advanced features that speed up the development process.
 
-<a href = "https://tecnoblog.net/409919/o-que-e-laravel-guia-para-iniciantes/">Ver mais sobre o Laravel</a>
+<a href = "https://tecnoblog.net/409919/o-que-e-laravel-guia-para-iniciantes/">More about Laravel</a>
+<a href = "https://youtu.be/qH7rsZBENJo">Original project</a>
